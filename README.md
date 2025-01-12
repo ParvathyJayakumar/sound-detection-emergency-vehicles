@@ -20,7 +20,10 @@ After the model is trained, it is tested on unseen test data (ambulance and traf
 
 After training the SVM model on the dataset, the following performance metrics were evaluated using the test set of ambulance and traffic noise audio files:
 
-Accuracy: 92.5%
-Precision: 0.91
-Recall: 0.93
-F1-Score: 0.92
+**Accuracy: 95%**
+
+**Precision: 0.91**
+
+**Recall: 0.93**
+
+**F1-Score: 0.92**
