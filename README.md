@@ -1,4 +1,4 @@
-**Sound Detection for Emergency Vehicles - SVM Model**
+# Sound Detection for Emergency Vehicles - SVM Model
 
 This repository contains a machine learning model to detect the sounds of emergency vehicles (ambulances) from traffic noise using Support Vector Machine (SVM) classification. The dataset is structured into training and testing sets, with separate folders for ambulance sounds and traffic noise sounds.This project uses Support Vector Machines (SVM), a powerful supervised learning algorithm, to classify audio clips as either ambulance or traffic noise. 
 
